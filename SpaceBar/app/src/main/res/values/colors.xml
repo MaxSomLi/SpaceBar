@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="start_button">#442085</color>
+    <color name="answer_button">#0F5B54</color>
+    <color name="text_color">#0C3495</color>
+    <color name="start_color">#FFFFFF</color>
+    <color name="background_color">#38C7D9</color>
+</resources>
