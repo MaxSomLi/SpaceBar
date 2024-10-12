@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceBar</string>
+    <string name="greeting">Hi, let\'s start your CalcuBara journey!</string>
+    <string name="start">START</string>
+    <string name="s1">1</string>
+    <string name="s2">2</string>
+    <string name="pc">PLAYGROUND</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+</resources>
